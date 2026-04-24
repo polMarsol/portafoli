@@ -3,7 +3,8 @@
     "allow": [
       "Read(//c/Projects/RunPas/**)",
       "Read(//c/Projects/neurosport/**)",
-      "Read(//c/Projects/Necodys-App-Backend/**)"
+      "Read(//c/Projects/Necodys-App-Backend/**)",
+      "Bash(npx tsc *)"
     ]
   }
 }
