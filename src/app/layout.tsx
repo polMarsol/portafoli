@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "Portfolio of Pol Marsol Torras, Software Developer specialised in AI and Machine Learning.",
   authors: [{ name: "Pol Marsol Torras" }],
   icons: {
-    icon: [{ url: "/favicon.svg?v=4", type: "image/svg+xml", sizes: "any" }],
+    icon: [{ url: `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/favicon.svg`, type: "image/svg+xml", sizes: "any" }],
   },
 };
 
