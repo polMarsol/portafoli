@@ -42,7 +42,7 @@ export default function Contact() {
   };
 
   const links = [
-    { icon: <Mail size={14} />, label: "marsoltorraspol@gmail.com", href: "mailto:marsoltorraspol@gmail.com" },
+    { icon: <Mail size={14} />, label: "contact@polmarsol.me", href: "mailto:contact@polmarsol.me" },
     { icon: <Phone size={14} />, label: "+34 644 603 095", href: "tel:+34644603095" },
     { icon: <GithubIcon size={14} />, label: "github.com/polMarsol", href: "https://github.com/polMarsol" },
     { icon: <LinkedinIcon size={14} />, label: "linkedin.com/in/pol-marsol", href: "https://linkedin.com/in/pol-marsol" },

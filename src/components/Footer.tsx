@@ -24,7 +24,7 @@ export default function Footer() {
         {[
           { icon: <GithubIcon size={14} />, href: "https://github.com/polMarsol" },
           { icon: <LinkedinIcon size={14} />, href: "https://linkedin.com/in/pol-marsol" },
-          { icon: <Mail size={14} />, href: "mailto:marsoltorraspol@gmail.com" },
+          { icon: <Mail size={14} />, href: "mailto:contact@polmarsol.me" },
         ].map((l, i) => (
           <a
             key={i}
